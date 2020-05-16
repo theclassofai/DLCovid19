@@ -1,6 +1,4 @@
-# Covid19_DeepLearning_CT_Scan_Images
-
-## DLCovid19: A Deep Learning-based Model for COVID19 Detection using CT Images
+# DLCovid19: A Deep Learning-based Model for COVID19 Detection using CT Images
 
 ![alt text](https://www.cavernoma.org.uk/wp-content/uploads/2020/03/covid-19.png)
 
